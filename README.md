@@ -79,10 +79,22 @@ The LanceMeUp App will now be running on your local development server. You can 
 - Use the app to conduct intern selection, manage projects, access emails, and stay updated with notifications.
 
 ## Screenshots
+## Screenshots
 
 Here are some screenshots of the LanceMeUp App:
-<img src="![Screenshot_2023-10-01-18-12-40-11_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/fbbd0624-0a59-44c4-af15-6768de395c9e)" width="300">
 
+<img src="https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/fbbd0624-0a59-44c4-af15-6768de395c9e" width="300">
+*Caption for Screenshot 1*
+
+<img src="https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/efeed7b0-f5ae-48e4-9522-ffd75db7713e" width="300">
+*Caption for Screenshot 2*
+
+<!-- Add more images in a similar way with desired widths and captions -->
+
+
+
+Here are some screenshots of the LanceMeUp App:
+![Screenshot_2023-10-01-18-12-40-11_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/fbbd0624-0a59-44c4-af15-6768de395c9e)
 ![Screenshot_2023-10-01-18-13-41-56_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/efeed7b0-f5ae-48e4-9522-ffd75db7713e)
 ![Screenshot_2023-10-01-18-13-28-38_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/6bef08bd-1223-4eda-a5e6-691acc786b07)
 ![Screenshot_2023-10-01-18-13-22-89_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/3bf9c732-8069-4fac-bd4e-047c77835db5)

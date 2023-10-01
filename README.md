@@ -1,6 +1,6 @@
 # LanceMeUp - Intern Selection and Project Collaboration App
 
-![LanceMeUp Logo]([https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/e3f93826-5e0d-4eb0-a67e-d36d2f49db53])
+![LanceMeUp Logo]([https://github-production-user-asset-6210df.s3.amazonaws.com/93578138/271829077-e3f93826-5e0d-4eb0-a67e-d36d2f49db53.png])
 
 **LanceMeUp** is your all-in-one solution for conducting online intern selection and project collaboration. This Flutter mobile application streamlines the intern selection process, offers essential project management tools, provides email integration, and keeps you updated with notifications, all while maintaining a clean and intuitive user interface.
 

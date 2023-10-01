@@ -81,15 +81,15 @@ The LanceMeUp App will now be running on your local development server. You can 
 ## Screenshots
 
 Here are some screenshots of the LanceMeUp App:
+![Screenshot_2023-10-01-18-12-40-11_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/fbbd0624-0a59-44c4-af15-6768de395c9e)
+![Screenshot_2023-10-01-18-13-41-56_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/efeed7b0-f5ae-48e4-9522-ffd75db7713e)
+![Screenshot_2023-10-01-18-13-28-38_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/6bef08bd-1223-4eda-a5e6-691acc786b07)
+![Screenshot_2023-10-01-18-13-22-89_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/3bf9c732-8069-4fac-bd4e-047c77835db5)
+![Screenshot_2023-10-01-18-13-15-56_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/5bb70452-00e9-4b6f-82a9-690de80e12d8)
+![Screenshot_2023-10-01-18-13-05-91_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/cdc82fb4-7249-4621-8f7b-85fa58acc82d)
+![Screenshot_2023-10-01-18-12-44-83_425720060c848f75ae52c352a6cd278f](https://github.com/Ab-Aayan/LanceMeUp/assets/93578138/e6c927c9-19e6-4859-94a8-875ac64bfb71)
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
-
-![Screenshot 3](screenshots/screenshot3.png)
-*Caption for Screenshot 3*
 
 ## Contributing
 

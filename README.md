@@ -78,6 +78,19 @@ The LanceMeUp App will now be running on your local development server. You can 
 - Launch the LanceMeUp App on your emulator or physical device.
 - Use the app to conduct intern selection, manage projects, access emails, and stay updated with notifications.
 
+## Screenshots
+
+Here are some screenshots of the LanceMeUp App:
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for Screenshot 2*
+
+![Screenshot 3](screenshots/screenshot3.png)
+*Caption for Screenshot 3*
+
 ## Contributing
 
 We welcome contributions from the community to enhance and expand the LanceMeUp App. If you'd like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).

@@ -97,7 +97,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or collaboration opportunities, please reach out to our dedicated team at [aayankhhan12@gmail.com](aayankhhan12@gmail.com).
+For questions, feedback, or collaboration opportunities, please reach out to our dedicated team at [aayankhhan12@gmail.com](mailto:aayankhhan12@gmail.com).
 
 ---
 
